@@ -62,3 +62,9 @@ pm2 stop <alias atau id> untuk menghentikan aplikasi
 pm2 restart <alias atau id> untuk melakukan restart aplikasi
 pm2 delete <alias atau id> untuk menghapus aplikasi dari PM2
 ```
+
+
+## Melihat log nya bisa melalui folder
+```
+~/.pm2/logs/
+```
